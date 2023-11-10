@@ -1,5 +1,5 @@
 <h1>Hi! Salam! 👋 I'm Mohammad Sefatullah</h1>
-✨ I'm a student of Higher Secondary, aspires to become a software engineer in the future. Currently, he is working on a web development role.
+✨ I'm a student of Higher Secondary, aspires to become a software engineer in the future. Currently, I am working on a web development role.
 <br/><br/>
 
 ### Activities

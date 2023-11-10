@@ -8,3 +8,18 @@
 -  🤔 I’m trying to become a ***software developer***
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
 -  😄 I use generally: `.js`, `.scss`, `.html`, `.jsx`;
+
+
+<br/>
+
+
+<b>&#128200; Problem Solving</b>
+
+<p float="left">
+<img height="200em"  src="https://leetcard.jacoblin.cool/mosefatullah?theme=light&font=Karma&ext=activity" />
+</p>
+
+<b>⚡ Github Stats</b>
+<p>
+<img height='180em' src="https://github-readme-stats.vercel.app/api?username=mosefatullah&show_icons=true" />
+</p>

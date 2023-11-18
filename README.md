@@ -5,7 +5,7 @@
 ### Activities
 -  🔭 I’m currently working on **web development**
 -  🌱 I’m currently learning **web development**
--  🤔 I’m trying to become a ***software developer***
+-  🤔 I want to be a ***software developer***
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
 -  😄 I use generally: `.js`, `.scss`, `.html`, `.jsx`;
 

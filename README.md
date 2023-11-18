@@ -13,11 +13,11 @@
 <br/>
 
 
-<b>&#128200; Problem Solving</b>
+<!--<b>&#128200; Problem Solving</b>
 
 <p float="left">
 <img height="200em"  src="https://leetcard.jacoblin.cool/mosefatullah?theme=light&font=Karma&ext=activity" />
-</p>
+</p>-->
 
 <b>⚡ Github Stats</b>
 <p>

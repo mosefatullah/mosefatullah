@@ -20,8 +20,8 @@
 </p>-->
 
 
-<p><img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=eshan-ahmed-ahad&show_icons=true&locale=en&layout=compact" alt="eshan-ahmed-ahad" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-ahmed-ahad&" alt="eshan-ahmed-ahad" /></p>
+<p><img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs?username=mosefatullah&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosefatullah&" /></p>
 
 <b>⚡ Github Stats</b>
 <p>

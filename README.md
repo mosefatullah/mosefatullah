@@ -99,16 +99,43 @@
 3. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
 </details>
 
-## 📢 UI Projects
+## 📢 UI Designs
 
 <details>
 <summary>Google Cloud</summary>
 
 ###### With DoodleUI (Made by me for creating lucrative websites like google's UI)
 
-1. Demo Link : [https://mosefatullah.github.io/ui/doodleui/](https://mosefatullah.github.io/ui/doodleui/)
-1. Github Link : [https://github.com/mosefatullah/ui/tree/main/doodleui](https://github.com/mosefatullah/ui/tree/main/doodleui)
-2. Technology : Sass, HTML
+1. Demo Link : [https://mosefatullah.github.io/ui/gcloud/](https://mosefatullah.github.io/ui/gcloud/)
+2. DoodleUI Github Link : [https://github.com/mosefatullah/ui/tree/main/doodleui](https://github.com/mosefatullah/ui/tree/main/doodleui)
+3. Github Link : [https://github.com/mosefatullah/ui/tree/main/gcloud](https://github.com/mosefatullah/ui/tree/main/gcloud)
+4. Technology : Sass, HTML
+</details>
+
+<details>
+<summary>DEV.to</summary>
+
+1. Demo Link : [https://mosefatullah.github.io/ui/devto/](https://mosefatullah.github.io/ui/devto/)
+1. Github Link : [https://github.com/mosefatullah/ui/tree/main/devto](https://github.com/mosefatullah/ui/tree/main/devto)
+2. Technology : HTML, CSS
+</details>
+
+<details>
+<summary>Invoice</summary>
+
+###### Printable invoice design
+
+1. Demo Link : [https://mosefatullah.github.io/ui/invoice/](https://mosefatullah.github.io/ui/invoice/)
+1. Github Link : [https://github.com/mosefatullah/ui/tree/main/invoice](https://github.com/mosefatullah/ui/tree/main/invoice)
+2. Technology : HTML, CSS
+</details>
+<summary>Ubeym</summary>
+
+###### Design like facebook
+
+1. Demo Link : [https://mosefatullah.github.io/ui/ubeym/](https://mosefatullah.github.io/ui/ubeym/)
+1. Github Link : [https://github.com/mosefatullah/ui/tree/main/ubeym](https://github.com/mosefatullah/ui/tree/main/ubeym)
+2. Technology : HTML, CSS
 </details>
 
 ## 📢 Raw Projects

@@ -96,7 +96,15 @@
 
 1. Demo Link : [https://mumodel-info-admin.vercel.app/](https://mumodel-info-admin.vercel.app/)
 2. Admin Panel Github Link : [https://github.com/mosefatullah/mumodel.info-admin](https://github.com/mosefatullah/mumodel.info-admin)
-3. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
+3. Admin Panel Technology : Reactjs, Firebase, Javascript
+</details>
+
+<details>
+<summary>Windoors OS</summary>
+
+1. Demo Link : [https://mosefatullah.github.io/windoors-os](https://mosefatullah.github.io/windoors-os)
+2. Github Link : [https://github.com/mosefatullah/windoors-os](https://github.com/mosefatullah/windoors-os)
+3. Technology : Reactjs, Javascript
 </details>
 
 ## 📢 UI Designs

@@ -107,6 +107,14 @@
 3. Technology : Reactjs, Javascript
 </details>
 
+<details>
+<summary>Scientific Calculator</summary>
+
+1. Demo Link : [https://mosefatullah.github.io/react-calculator](https://mosefatullah.github.io/react-calculator)
+2. Github Link : [https://github.com/mosefatullah/react-calculator](https://github.com/mosefatullah/react-calculator)
+3. Technology : Reactjs, Mathjs
+</details>
+
 ## 📢 UI Designs
 
 <details>

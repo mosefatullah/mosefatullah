@@ -116,8 +116,8 @@
 <summary>DEV.to</summary>
 
 1. Demo Link : [https://mosefatullah.github.io/ui/devto/](https://mosefatullah.github.io/ui/devto/)
-1. Github Link : [https://github.com/mosefatullah/ui/tree/main/devto](https://github.com/mosefatullah/ui/tree/main/devto)
-2. Technology : HTML, CSS
+2. Github Link : [https://github.com/mosefatullah/ui/tree/main/devto](https://github.com/mosefatullah/ui/tree/main/devto)
+3. Technology : HTML, CSS
 </details>
 
 <details>
@@ -126,16 +126,18 @@
 ###### Printable invoice design
 
 1. Demo Link : [https://mosefatullah.github.io/ui/invoice/](https://mosefatullah.github.io/ui/invoice/)
-1. Github Link : [https://github.com/mosefatullah/ui/tree/main/invoice](https://github.com/mosefatullah/ui/tree/main/invoice)
-2. Technology : HTML, CSS
+2. Github Link : [https://github.com/mosefatullah/ui/tree/main/invoice](https://github.com/mosefatullah/ui/tree/main/invoice)
+3. Technology : HTML, CSS
 </details>
+
+<details>
 <summary>Ubeym</summary>
 
 ###### Design like facebook
 
 1. Demo Link : [https://mosefatullah.github.io/ui/ubeym/](https://mosefatullah.github.io/ui/ubeym/)
-1. Github Link : [https://github.com/mosefatullah/ui/tree/main/ubeym](https://github.com/mosefatullah/ui/tree/main/ubeym)
-2. Technology : HTML, CSS
+2. Github Link : [https://github.com/mosefatullah/ui/tree/main/ubeym](https://github.com/mosefatullah/ui/tree/main/ubeym)
+3. Technology : HTML, CSS
 </details>
 
 ## 📢 Raw Projects

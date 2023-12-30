@@ -118,12 +118,20 @@
 ## 📢 UI Designs
 
 <details>
+<summary>Doodle UI</summary>
+
+1. Npm Link : [https://npmjs.org/package/doodleui](https://npmjs.org/package/doodleui)
+2. Github Link : [https://github.com/mosefatullah/doodleui](https://github.com/mosefatullah/doodleui)
+3. Technology : Sass, Javascript
+</details>
+
+<details>
 <summary>Google Cloud</summary>
 
 ###### With DoodleUI (Made by me for creating lucrative websites like google's UI)
 
 1. Demo Link : [https://mosefatullah.github.io/ui/gcloud/](https://mosefatullah.github.io/ui/gcloud/)
-2. DoodleUI Github Link : [https://github.com/mosefatullah/ui/tree/main/doodleui](https://github.com/mosefatullah/ui/tree/main/doodleui)
+2. DoodleUI Github Link : [https://github.com/mosefatullah/doodleui](https://github.com/mosefatullah/ui/doodleui)
 3. Github Link : [https://github.com/mosefatullah/ui/tree/main/gcloud](https://github.com/mosefatullah/ui/tree/main/gcloud)
 4. Technology : Sass, HTML
 </details>
@@ -134,7 +142,7 @@
 ###### With DoodleUI (Made by me for creating lucrative websites like google's UI)
 
 1. Demo Link : [https://mosefatullah.github.io/ui/gdrive/](https://mosefatullah.github.io/ui/gdrive/)
-2. DoodleUI Github Link : [https://github.com/mosefatullah/ui/tree/main/doodleui](https://github.com/mosefatullah/ui/tree/main/doodleui)
+2. DoodleUI Github Link : [https://github.com/mosefatullah/doodleui](https://github.com/mosefatullah/doodleui)
 3. Github Link : [https://github.com/mosefatullah/ui/tree/main/gdrive](https://github.com/mosefatullah/ui/tree/main/gdrive)
 4. Technology : Sass, HTML
 </details>

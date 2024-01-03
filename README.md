@@ -87,7 +87,7 @@
 <details>
 <summary>Special Stars Admin</summary>
 
-1. Admin Panel Github Link : [https://github.com/specialstars/admin](https://github.com/specialstars/admin)
+1. Admin Panel Github Link : Private for Production
 2. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
 </details>
 
@@ -95,8 +95,9 @@
 <summary>Misbahul Ummah Model Admin</summary>
 
 1. Demo Link : [https://mumodel-info-admin.vercel.app/](https://mumodel-info-admin.vercel.app/)
-2. Admin Panel Github Link : [https://github.com/mosefatullah/mumodel.info-admin](https://github.com/mosefatullah/mumodel.info-admin)
-3. Admin Panel Technology : Reactjs, Firebase, Javascript
+2. Admin Panel Github Link : Private for Production
+3. Admin Panel Demo Github Link : [https://github.com/mosefatullah/mumodel.info-admin](https://github.com/mosefatullah/demo-mumodel.info-admin)
+4. Admin Panel Technology : Reactjs, Firebase, Javascript
 </details>
 
 <details>

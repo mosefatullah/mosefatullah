@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary>Videophics</summary>
+<summary>Al Muqayseh Company</summary>
 
 1. Live Site : [https://videophics.com/](https://videophics.com/)
 4. Technology : Reactjs, Javascript, Tailwindcss, Firebase

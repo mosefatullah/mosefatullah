@@ -49,8 +49,8 @@
 <details>
 <summary>Saad Al Amin Website</summary>
 
-1. Live Site : [https://saadalamin.github.io/](https://saadalamin.github.io/)
-3. Technology : HTML, Sass, Javascript
+1. Live Site : [https://saadalamin.github.io/](https://saadalamin.com/)
+3. Technology : Reactjs, Firebase, Sass, Javascript
 </details>
 
 <details>
@@ -64,16 +64,19 @@
 <summary>Special Stars Website</summary>
 
 1. Live Site : [https://specialstars.github.io/](https://specialstars.github.io/)
-4. Technology : HTML, Sass, Javascript, Firebase
-5. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
+4. Technology : HTML, Sass, Javascript, Firebase, Reactjs (parts)
 </details>
 
 <details>
 <summary>Misbahul Ummah Model Website</summary>
 
 1. Live Site : [https://www.mumodel.info/](https://www.mumodel.info/)
-4. Technology : HTML, Sass, Javascript, Firebase
-5. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
+4. Technology : HTML, Sass, Javascript, Firebase, Reactjs (parts)
+</details>
+<summary>Videophics</summary>
+
+1. Live Site : [https://videophics.com/](https://videophics.com/)
+4. Technology : Reactjs, Javascript, Firebase
 </details>
 
 ## 📢 React Projects
@@ -82,7 +85,7 @@
 <summary>Special Stars Admin</summary>
 
 1. Admin Panel Github Link : Private for Production
-2. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
+2. Admin Panel Technology : Reactjs, Firebase, Javascript
 </details>
 
 <details>

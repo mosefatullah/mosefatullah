@@ -50,36 +50,46 @@
 <summary>Saad Al Amin Website</summary>
 
 1. Live Site : [https://saadalamin.github.io/](https://saadalamin.com/)
-3. Technology : Reactjs, Firebase, Sass, Javascript
+3. Technology : Reactjs, Sass, Javascript, Bootstrap, Firebase
 </details>
 
 <details>
 <summary>Muktir Ghonta Website</summary>
 
 1. Live Site : [https://www.muktirghonta.com/](https://www.muktirghonta.com/)
-3. Technology : HTML, Sass, Javascript
+3. Technology : HTML, Sass, Javascript, Bootstrap
 </details>
 
 <details>
 <summary>Special Stars Website</summary>
 
 1. Live Site : [https://specialstars.github.io/](https://specialstars.github.io/)
-4. Technology : HTML, Sass, Javascript, Firebase, Reactjs (parts)
+4. Technology : HTML, Sass, Javascript, Bootstrap, Firebase, Reactjs (parts)
 </details>
 
 <details>
 <summary>Misbahul Ummah Model Website</summary>
 
 1. Live Site : [https://www.mumodel.info/](https://www.mumodel.info/)
-4. Technology : HTML, Sass, Javascript, Firebase, Reactjs (parts)
+4. Technology : HTML, Sass, Javascript, Bootstrap, Firebase, Reactjs (parts)
 </details>
 
 <details>
 <summary>Videophics</summary>
 
 1. Live Site : [https://videophics.com/](https://videophics.com/)
-4. Technology : Reactjs, Javascript, Firebase
+4. Technology : Reactjs, Javascript, Tailwindcss, Firebase
 </details>
+
+</details>
+
+<details>
+<summary>Videophics</summary>
+
+1. Live Site : [https://almuqayseh.pages.dev/](https://almuqayseh.pages.dev/)
+4. Technology : Reactjs, Javascript, Bootstrap
+</details>
+
 
 ## 📢 UI Designs
 

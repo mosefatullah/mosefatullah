@@ -84,20 +84,6 @@
 ## 📢 React Projects
 
 <details>
-<summary>Special Stars Admin</summary>
-
-1. Admin Panel Github Link : Private for Production
-2. Admin Panel Technology : Reactjs, Firebase, Javascript
-</details>
-
-<details>
-<summary>Misbahul Ummah Model Admin</summary>
-
-1. Admin Panel Github Link : Private for Production
-2. Admin Panel Technology : Reactjs, Firebase, Javascript
-</details>
-
-<details>
 <summary>Windoors OS</summary>
 
 1. Demo Link : [https://mosefatullah.github.io/windoors-os](https://mosefatullah.github.io/windoors-os)

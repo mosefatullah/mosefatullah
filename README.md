@@ -81,34 +81,6 @@
 4. Technology : Reactjs, Javascript, Firebase
 </details>
 
-## 📢 React Projects
-
-<details>
-<summary>Windoors OS</summary>
-
-1. Demo Link : [https://mosefatullah.github.io/windoors-os](https://mosefatullah.github.io/windoors-os)
-2. Github Link : [https://github.com/mosefatullah/windoors-os](https://github.com/mosefatullah/windoors-os)
-3. Technology : Reactjs, Javascript
-</details>
-
-<details>
-<summary>Scientific Calculator</summary>
-
-1. Demo Link : [https://mosefatullah.github.io/react-calculator](https://mosefatullah.github.io/react-calculator)
-2. Github Link : [https://github.com/mosefatullah/react-calculator](https://github.com/mosefatullah/react-calculator)
-3. Technology : Reactjs, Mathjs
-</details>
-
-## 📢 Javascript Projects
-
-<details>
-<summary>Doodle UI</summary>
-
-1. Npm Link : [https://npmjs.org/package/doodleui](https://npmjs.org/package/doodleui)
-2. Github Link : [https://github.com/mosefatullah/doodleui](https://github.com/mosefatullah/doodleui)
-3. Technology : Sass, Javascript
-</details>
-
 ## 📢 UI Designs
 
 <details>
@@ -161,7 +133,17 @@
 3. Technology : HTML, CSS
 </details>
 
-## 📢 Raw Projects
+## 📢 Javascript Projects
+
+<details>
+<summary>Doodle UI</summary>
+
+###### A CSS & JS Library for executing UI functionalities easily
+
+1. Npm Link : [https://npmjs.org/package/doodleui](https://npmjs.org/package/doodleui)
+2. Github Link : [https://github.com/mosefatullah/doodleui](https://github.com/mosefatullah/doodleui)
+3. Technology : Sass, Javascript
+</details>
 
 <details>
   <summary>Webshop</summary>
@@ -172,3 +154,20 @@
   2. Github Link : [https://github.com/mosefatullah/webshop](https://github.com/mosefatullah/webshop)
 </details>
 
+## 📢 React Projects
+
+<details>
+<summary>Windoors OS</summary>
+
+1. Demo Link : [https://mosefatullah.github.io/windoors-os](https://mosefatullah.github.io/windoors-os)
+2. Github Link : [https://github.com/mosefatullah/windoors-os](https://github.com/mosefatullah/windoors-os)
+3. Technology : Reactjs, Javascript
+</details>
+
+<details>
+<summary>Scientific Calculator</summary>
+
+1. Demo Link : [https://mosefatullah.github.io/react-calculator](https://mosefatullah.github.io/react-calculator)
+2. Github Link : [https://github.com/mosefatullah/react-calculator](https://github.com/mosefatullah/react-calculator)
+3. Technology : Reactjs, Mathjs
+</details>

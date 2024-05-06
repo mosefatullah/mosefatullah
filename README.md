@@ -73,6 +73,8 @@
 1. Live Site : [https://www.mumodel.info/](https://www.mumodel.info/)
 4. Technology : HTML, Sass, Javascript, Firebase, Reactjs (parts)
 </details>
+
+<details>
 <summary>Videophics</summary>
 
 1. Live Site : [https://videophics.com/](https://videophics.com/)

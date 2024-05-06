@@ -50,7 +50,6 @@
 <summary>Saad Al Amin Website</summary>
 
 1. Live Site : [https://saadalamin.github.io/](https://saadalamin.github.io/)
-2. Github Link : [https://github.com/saadalamin/saadalamin.github.io](https://github.com/saadalamin/saadalamin.github.io)
 3. Technology : HTML, Sass, Javascript
 </details>
 
@@ -58,7 +57,6 @@
 <summary>Muktir Ghonta Website</summary>
 
 1. Live Site : [https://www.muktirghonta.com/](https://www.muktirghonta.com/)
-2. Github Link : [https://github.com/mosefatullah/muktirghonta.com](https://github.com/mosefatullah/muktirghonta.com)
 3. Technology : HTML, Sass, Javascript
 </details>
 
@@ -66,8 +64,6 @@
 <summary>Special Stars Website</summary>
 
 1. Live Site : [https://specialstars.github.io/](https://specialstars.github.io/)
-2. Github Link : [https://github.com/specialstars/specialstars.github.io](https://github.com/specialstars/specialstars.github.io)
-3. Admin Panel Github Link : [https://github.com/specialstars/admin](https://github.com/specialstars/admin)
 4. Technology : HTML, Sass, Javascript, Firebase
 5. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
 </details>
@@ -76,8 +72,6 @@
 <summary>Misbahul Ummah Model Website</summary>
 
 1. Live Site : [https://www.mumodel.info/](https://www.mumodel.info/)
-2. Github Link : [https://github.com/saadalamin/mumodel](https://github.com/saadalamin/mumodel)
-3. Admin Panel Github Link : [https://github.com/mosefatullah/mumodel.info-admin](https://github.com/mosefatullah/mumodel.info-admin)
 4. Technology : HTML, Sass, Javascript, Firebase
 5. Admin Panel Technology : Reactjs, Firebase, JSX, Javascript
 </details>

@@ -99,7 +99,7 @@
 3. Technology : Reactjs, Mathjs
 </details>
 
-## 📢 Javascript
+## 📢 Javascript Projects
 
 <details>
 <summary>Doodle UI</summary>

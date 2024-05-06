@@ -99,7 +99,7 @@
 3. Technology : Reactjs, Mathjs
 </details>
 
-## 📢 UI Designs
+## 📢 Javascript
 
 <details>
 <summary>Doodle UI</summary>
@@ -108,6 +108,8 @@
 2. Github Link : [https://github.com/mosefatullah/doodleui](https://github.com/mosefatullah/doodleui)
 3. Technology : Sass, Javascript
 </details>
+
+## 📢 UI Designs
 
 <details>
 <summary>Google Cloud</summary>

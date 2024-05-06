@@ -7,7 +7,7 @@
 -  🌱 I’m currently learning **web development**
 -  🤔 I want to be a ***software developer***
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
--  😄 I like to work with **Javascript** for everything
+-  😄 I like to solve problems with **Javascript**
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosefatullah&label=Profile%20views&color=0e75b6&style=flat" /> </p>

@@ -3,9 +3,9 @@
 <br/><br/>
 
 ### Activities
--  🔭 I’m currently working on **web development**
--  🌱 I’m currently learning **web development**
--  🤔 I want to be a ***software developer***
+-  🔭 I’m currently working on **full stack web development**
+-  🌱 I’m currently learning **full stack web development**
+-  🤔 I want to be a ***software engineer***
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
 -  😄 I like to solve problems with ***Javascript***
 

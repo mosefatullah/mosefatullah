@@ -148,9 +148,11 @@
 
 ###### A frontend library that simplifies UI functionality focusing on modern features.
 
-1. Npm Link : [https://npmjs.org/package/dodleui](https://npmjs.org/package/dodleui)
-2. Github Link : [https://github.com/mosefatullah/dodleui](https://github.com/mosefatullah/dodleui)
-3. Technology : Sass, Javascript
+1. Official Website : [https://dodleui.pages.dev](https://dodleui.pages.dev)
+2. Npm Package : [https://npmjs.org/package/dodleui](https://npmjs.org/package/dodleui)
+3. Yarn Package : [https://yarnpkg.com/package/dodleui](https://yarnpkg.com/package/dodleui)
+4. Github Link : [https://github.com/mosefatullah/dodleui](https://github.com/mosefatullah/dodleui)
+5. Technology : Sass, Javascript
 </details>
 
 <details>

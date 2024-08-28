@@ -98,8 +98,8 @@
 
 ###### With DodleUI library
 
-1. Demo Link : [https://mosefatullah.github.io/Clones-with-DodleUI/gcloud/](https://mosefatullah.github.io/Clones-with-DodleUI/gcloud/)
-3. Github Link : [https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/gcloud](https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/gcloud)
+1. Demo Link : [https://mosefatullah.github.io/design/gcloud/](https://mosefatullah.github.io/design/gcloud/)
+3. Github Link : [https://github.com/mosefatullah/design/tree/main/gcloud](https://github.com/mosefatullah/design/tree/main/gcloud)
 4. Technology : Sass, HTML
 </details>
 
@@ -108,16 +108,16 @@
 
 ###### With DodleUI library
 
-1. Demo Link : [https://mosefatullah.github.io/Clones-with-DodleUI/gdrive/](https://mosefatullah.github.io/Clones-with-DodleUI/gdrive/)
-3. Github Link : [https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/gdrive](https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/gdrive)
+1. Demo Link : [https://mosefatullah.github.io/design/gdrive/](https://mosefatullah.github.io/design/gdrive/)
+3. Github Link : [https://github.com/mosefatullah/design/tree/main/gdrive](https://github.com/mosefatullah/design/tree/main/gdrive)
 4. Technology : Sass, HTML
 </details>
 
 <details>
 <summary>DEV.to</summary>
 
-1. Demo Link : [https://mosefatullah.github.io/Clones-with-DodleUI/devto/](https://mosefatullah.github.io/Clones-with-DodleUI/devto/)
-2. Github Link : [https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/devto](https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/devto)
+1. Demo Link : [https://mosefatullah.github.io/design/devto/](https://mosefatullah.github.io/design/devto/)
+2. Github Link : [https://github.com/mosefatullah/design/tree/main/devto](https://github.com/mosefatullah/design/tree/main/devto)
 3. Technology : HTML, CSS
 </details>
 
@@ -126,8 +126,8 @@
 
 ###### Printable invoice design
 
-1. Demo Link : [https://mosefatullah.github.io/Clones-with-DodleUI/invoice/](https://mosefatullah.github.io/Clones-with-DodleUI/invoice/)
-2. Github Link : [https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/invoice](https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/invoice)
+1. Demo Link : [https://mosefatullah.github.io/design/invoice/](https://mosefatullah.github.io/design/invoice/)
+2. Github Link : [https://github.com/mosefatullah/design/tree/main/invoice](https://github.com/mosefatullah/design/tree/main/invoice)
 3. Technology : HTML, CSS
 </details>
 
@@ -136,8 +136,8 @@
 
 ###### Design like facebook
 
-1. Demo Link : [https://mosefatullah.github.io/Clones-with-DodleUI/ubeym/](https://mosefatullah.github.io/Clones-with-DodleUI/ubeym/)
-2. Github Link : [https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/ubeym](https://github.com/mosefatullah/Clones-with-DodleUI/tree/main/ubeym)
+1. Demo Link : [https://mosefatullah.github.io/design/ubeym/](https://mosefatullah.github.io/design/ubeym/)
+2. Github Link : [https://github.com/mosefatullah/design/tree/main/ubeym](https://github.com/mosefatullah/design/tree/main/ubeym)
 3. Technology : HTML, CSS
 </details>
 

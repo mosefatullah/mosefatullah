@@ -61,10 +61,9 @@
 </details>
 
 <details>
-<summary>Special Stars Website</summary>
+<summary>Millat Science Club Website</summary>
 
-1. Live Site : [https://specialstars.github.io/](https://specialstars.github.io/)
-4. Technology : HTML, Sass, Javascript, Bootstrap, Firebase, Reactjs (parts)
+1. Live Site : [https://mscbd.org/](https://mscbd.org/)
 </details>
 
 <details>

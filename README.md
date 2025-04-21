@@ -112,35 +112,6 @@
 4. Technology : Sass, HTML
 </details>
 
-<details>
-<summary>DEV.to</summary>
-
-###### Parts of DEV.to
-
-1. Demo Link : [https://mosefatullah.github.io/designs/devto/](https://mosefatullah.github.io/designs/devto/)
-2. Github Link : [https://github.com/mosefatullah/designs/tree/main/devto](https://github.com/mosefatullah/designs/tree/main/devto)
-3. Technology : HTML, CSS
-</details>
-
-<details>
-<summary>Invoice</summary>
-
-###### Printable invoice
-
-1. Demo Link : [https://mosefatullah.github.io/designs/invoice/](https://mosefatullah.github.io/designs/invoice/)
-2. Github Link : [https://github.com/mosefatullah/designs/tree/main/invoice](https://github.com/mosefatullah/designs/tree/main/invoice)
-3. Technology : HTML, CSS
-</details>
-
-<details>
-<summary>Ubeym</summary>
-
-###### Parts of facebook
-
-1. Demo Link : [https://mosefatullah.github.io/designs/ubeym/](https://mosefatullah.github.io/designs/ubeym/)
-2. Github Link : [https://github.com/mosefatullah/designs/tree/main/ubeym](https://github.com/mosefatullah/designs/tree/main/ubeym)
-3. Technology : HTML, CSS
-</details>
 
 ## 📢 Javascript Projects
 

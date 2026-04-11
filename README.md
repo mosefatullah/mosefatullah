@@ -1,11 +1,5 @@
 <h1>👋 I'm Mohammad Sefatullah</h1>
-✨ Sefatullah, also known as Mohammad Sefatullah, is a passionate full stack web developer from Bangladesh born in 2006. He dreams of becoming a software engineer and passionate coding leader. He is trying to get involved in various extra curricular activities with the vision of making a positive impact on the society.
-<br/><br/>
 
-### Activities
--  🔭 I’m currently working on **full stack web development**
--  🌱 I’m currently learning **full stack web development**
--  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosefatullah&label=Profile%20views&color=0e75b6&style=flat" /> </p>

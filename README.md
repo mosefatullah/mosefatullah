@@ -1,4 +1,4 @@
-<h1>Hi! Salam! 👋 I'm Mohammad Sefatullah</h1>
+<h1>👋 I'm Mohammad Sefatullah</h1>
 ✨ Sefatullah, also known as Mohammad Sefatullah, is a passionate full stack web developer from Bangladesh born in 2006. He dreams of becoming a software engineer and passionate coding leader. He is trying to get involved in various extra curricular activities with the vision of making a positive impact on the society.
 <br/><br/>
 

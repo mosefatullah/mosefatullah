@@ -1,18 +1,15 @@
-<<<<<<< HEAD
 
-=======
 <h1>👋 I'm Mohammad Sefatullah</h1>
-✨ Sefatullah, also known as Mohammad Sefatullah, is a passionate full stack web developer from Bangladesh born in 2006. He dreams of becoming a software engineer and passionate coding leader. He is trying to get involved in various extra curricular activities with the vision of making a positive impact on the society.
+✨ Former Bangladeshi Web Developer. SEO Enthusiast.
 <br/><br/>
 
 ### Activities
--  🔭 I’m currently working on **full stack web development**
--  🌱 I’m currently learning **full stack web development**
--  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
+-  🔭 Previously worked on **Full Stack Web Development**
+-  🌱 Currently enthusiast about **Search Engine Optimization (SEO)**
+-  📫 To reach me: [Linkedin](https://www.linkedin.com/in/mosefatullah/)
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosefatullah&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosefatullah" /></a> </p>
 <br/>
 
 
@@ -35,61 +32,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mosefatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdahada09483086" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mosefatullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eshanahmedahad/" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/sefatullahpage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eshanahmedahad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mohammadsefatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/habluprogrammer1" height="30" width="40" /></a>
+
 </p>
 
 <br/><br/>
 
 # Projects
-
-## 📢 Notable Projects
-
-<details>
-<summary>Saad Al Amin Website</summary>
-
-1. Live Site : [https://saadalamin.github.io/](https://saadalamin.com/)
-3. Technology : Reactjs, Sass, Javascript, Bootstrap, Firebase
-</details>
-
-<details>
-<summary>Muktir Ghonta Website</summary>
-
-1. Live Site : [https://www.muktirghonta.com/](https://www.muktirghonta.com/)
-3. Technology : HTML, Sass, Javascript, Bootstrap
-</details>
-
-<details>
-<summary>Millat Science Club Website</summary>
-
-1. Live Site : [https://mscbd.org/](https://mscbd.org/)
-</details>
-
-<details>
-<summary>Misbahul Ummah Model Website</summary>
-
-1. Live Site : [https://www.mumodel.info/](https://www.mumodel.info/)
-4. Technology : HTML, Sass, Javascript, Bootstrap, Firebase, Reactjs (parts)
-</details>
-
-<details>
-<summary>Videophics Website</summary>
-
-1. Live Site : [https://videophics.com/](https://videophics.com/)
-4. Technology : Reactjs, Javascript, Tailwindcss, Firebase
-</details>
-
-</details>
-
-<details>
-<summary>Al Muqayseh Website</summary>
-
-1. Live Site : [https://almuqayseh.pages.dev/](https://almuqayseh.pages.dev/)
-4. Technology : Reactjs, Javascript, Bootstrap
-</details>
-
 
 ## 📢 UI Designs
 
@@ -154,4 +105,4 @@
 2. Github Link : [https://github.com/mosefatullah/react-calculator](https://github.com/mosefatullah/react-calculator)
 3. Technology : Reactjs, Mathjs
 </details>
->>>>>>> parent of 985c4cf (Update README to remove personal information)
+
